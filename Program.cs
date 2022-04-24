@@ -1,4 +1,4 @@
-﻿// вывод квадрата заданного числа
+﻿// вывод квадрата заданного целого числа
 int x;
 Console.WriteLine("Введите число");
 x = Convert.ToInt32(Console.ReadLine());
